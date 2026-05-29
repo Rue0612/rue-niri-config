@@ -5,6 +5,6 @@
 
 output "DP-2" {
     variable-refresh-rate
-    mode "2560x1440@359.979" // Set resolution and refresh rate
+    mode "1920x1080@179.961" // Set resolution and refresh rate
     scale 1 // No scaling (use 2 for HiDPI)
 }
