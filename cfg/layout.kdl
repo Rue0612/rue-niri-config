@@ -13,6 +13,6 @@
         struts {}
 
         focus-ring {
-            active-color "#bfedd0"
+            active-color "#46BA94"
         }
     }
